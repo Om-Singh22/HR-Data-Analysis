@@ -60,14 +60,4 @@ The analysis highlighted the importance of data-driven decision-making in enhanc
 
 Overall, this project underscores the value of leveraging data to drive strategic initiatives and achieve a competitive edge in the hospitality sector. Continued analysis and adaptation to emerging trends will be crucial in maintaining and enhancing this competitive advantage in the future.
 
-## How to use this repository 📍
-- **Excel files** - Excel files are the source data for the project.
-- **Pbix file** - It is the PowerBI file in which the interactive dashboard is there so that any user can use it accordingly.
-- **Presentation file** - This is the file that contains all the relevant insights about the project.
-- **Readme file** - It gives the overview of the project.
 
-## About the Author 📃
-- Utkarsh Sharma
-- **Email**- sharma.utkarsh2402@gmail.com
-- **LinkedIn**- www.linkedin.com/in/utkarsh-sharma-9a8321188
-- **Presentation Video** - https://youtu.be/n4SCUzVImGY
